@@ -41,6 +41,6 @@ details.menu-controls > summary.menu-title {
   color: #E0E1DD !important;
 }
 
-details.menu-controls 
+details.menu-controls {
   display: none;
 }
