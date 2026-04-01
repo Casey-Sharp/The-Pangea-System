@@ -41,10 +41,6 @@ details.menu-controls > summary.menu-title {
   color: #E0E1DD !important;
 }
 
-.menu-controls-list label {
-  color: #E0E1DD;
-}
-
-.menu-controls-container label {
-  color: #E0E1DD;
+details.menu-controls .menu-controls-list label {
+  color: #E0E1DD !important;
 }
