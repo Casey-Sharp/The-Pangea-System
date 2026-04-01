@@ -1,4 +1,4 @@
 Line 1099: 	<link rel="stylesheet" href="styles.css">
-Line 1096: <a href="accessibility.html" aria-label="Open accessible version of Cosmascope">Accessible version of Cosmascope</a>
-Line 1107: <h4 class="description">Welcome to Pangea: seven corporate cities, seven genres, one universe. Hackers, soldiers, and explorers collide as corporations manipulate, betray, and exploit. Discover the threads connecting rebellion, obsession, and survival across a fractured solar system. This graph reveals the characters, locations, and stories—ready to explore.</h4>
+Line 1106: <a href="accessibility.html" aria-label="Open accessible version of Cosmascope">Accessible version of Cosmascope</a>
+Line 1105: <h4 class="description">Welcome to Pangea: seven corporate cities, seven genres, one universe. Hackers, soldiers, and explorers collide as corporations manipulate, betray, and exploit. Discover the threads connecting rebellion, obsession, and survival across a fractured solar system. This graph reveals the characters, locations, and stories—ready to explore.</h4>
             
