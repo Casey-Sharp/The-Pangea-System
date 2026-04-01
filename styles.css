@@ -36,12 +36,9 @@ details.menu-index .menu-title {
   color: #E0E1DD;
 }
 
-details.menu-controls .menu-title {
-  color: #E0E1DD;
-}
-
-details.menu-view .menu-title {
-  color: #E0E1DD
+details.menu-view > summary.menu-title,
+details.menu-controls > summary.menu-title {
+  color: #E0E1DD !important;
 }
 
 
