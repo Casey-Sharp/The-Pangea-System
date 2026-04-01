@@ -5,7 +5,7 @@
 }
 
 #menu-container {
-  color: #2B005E
+  --background-gray: #2B005E
 }
 
 #menu-container .title {
