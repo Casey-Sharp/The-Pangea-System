@@ -1,1 +1,5 @@
-
+.link-types-title,
+#link-types-form {
+  position: absolute;
+  left: -9999px;
+}
