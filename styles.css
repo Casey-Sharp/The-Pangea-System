@@ -4,8 +4,8 @@
   left: -9999px;
 }
 
-.aside.menu {
-  background-color: #2B005E
+#menu-container {
+  color: #2B005E
 }
 
 #menu-container .title {
