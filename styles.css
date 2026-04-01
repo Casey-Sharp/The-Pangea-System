@@ -3,3 +3,19 @@
   position: absolute;
   left: -9999px;
 }
+
+.aside.menu {
+  background-color: #2B005E
+}
+
+#menu-container .title {
+  color: #E0E1DD
+}
+
+#menu-container .description {
+  color: #E0E1DD
+}
+
+#menu-container a {
+  color: #E0E1DD
+}
